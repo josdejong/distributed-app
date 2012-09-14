@@ -127,3 +127,4 @@ Invoke a method on the default instance of an object.
 body: JSON-RPC 1.0 or 2.0 request, {"id": ..., "method": ..., "params": [...]}
 
 Invoke a method on the instance of an object with specified id.
+
