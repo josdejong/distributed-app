@@ -66,13 +66,13 @@ Get a list with the urls of all registered nodes.
 
 #### POST /nodes/connect
 
-body: {'url': url}
+body: {"url": url}
 
 Connect to an other node.
 
 #### POST /nodes/disconnect
 
-body: {'url': url}
+body: {"url": url}
 
 Disconnect from an other node.
 
